@@ -1,7 +1,7 @@
 package com.hrbatovic.leetcode;
 
 public class PalindromeNumber {
-    //accepted, 6 ms Beats 46.09% of users with Java, 44.44 MB Beats 5.79% of users with Java
+    //accepted, Runtime 6 ms Beats 46.09% of users with Java, Memory 44.30 MB Beats 11.85% of users with Java
     public static void main(String[] args) {
         System.out.println("121 is palindrome number: " + isPalindrome(121));
         System.out.println("-121 is palindrome number: " + isPalindrome(-121));

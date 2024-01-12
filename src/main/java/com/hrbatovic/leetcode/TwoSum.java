@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 public class TwoSum {
-    //accepted, runtime 2ms, memory 44.80 mb - beats 88.28% of java submissions
+    //accepted, Runtime 2 ms Beats 88.28% of users with Java, Memory 45.12 MB Beats 5.93% of users with Java
     public static void main(String[] args) {
         System.out.println("{2, 7, 11, 15}, target 9, TwoSum: " + Arrays.toString(twoSum(new int[]{2, 7, 11, 15}, 9)));
     }
